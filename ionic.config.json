@@ -1,0 +1,7 @@
+{
+  "name": "IonicCapacitorHelloWorld",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
