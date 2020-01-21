@@ -28,6 +28,14 @@
 				<string>capacitor</string>
 			</array>
 		</dict>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>branch-cordova-sdk</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>earneabranch</string>
+			</array>
+		</dict>
 	</array>
 	<key>CFBundleVersion</key>
 	<string>1</string>
@@ -73,5 +81,9 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<true/>
+	<key>branch_key</key>
+	<string>key_live_laMUFGftCeYX2ZbeMKWQ9jnatwkLirhb</string>
+	<key>branch_app_domain</key>
+	<string>earneabranch.app.link</string>
 </dict>
 </plist>
